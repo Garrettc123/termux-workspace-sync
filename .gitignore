@@ -1,0 +1,30 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+
+# Secrets
+*.key
+*.pem
+credentials.json
+
+# Temp
+tmp/
+temp/
+*.tmp
+
+# Config
+config/local.conf
+
+# Cache
+.cache/
